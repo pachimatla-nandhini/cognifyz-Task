@@ -26,13 +26,13 @@ Practice real-world development workflows including file structuring, navigation
 
  **Level 2**
  Created **three separate pages**:
-  index.html` (Home)
+ index.html` (Home)
  about.html` (About)
  contact.html` (Contact)
-  Added Bootstrap **grid system** for layout
-  Added responsive **cards** and styled components
-  Consistent navbar and footer across all pages
-  Linked Level 1 and Level 3 pages in navbar
+ Added Bootstrap **grid system** for layout
+ Added responsive **cards** and styled components
+ Consistent navbar and footer across all pages
+ Linked Level 1 and Level 3 pages in navbar
 
  **Level 3**
 - Internship **Apply Form** with:
