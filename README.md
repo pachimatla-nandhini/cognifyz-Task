@@ -42,6 +42,9 @@ Practice real-world development workflows including file structuring, navigation
  Added responsive **cards** and styled components
  Consistent navbar and footer across all pages
  Linked Level 1 and Level 3 pages in navbar
+ <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ac2765b7-ea89-46f9-b6d5-8bbaa2551b62" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/978d8044-3715-44e3-b5c3-466b2a3fae06" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ae35a4f0-a0f4-4683-b917-77f3b35ad2fa" />
 
  **Level 3**
 - Internship **Apply Form** with:
