@@ -20,14 +20,12 @@ Practice real-world development workflows including file structuring, navigation
 
 **Level 1**
 - Introduction to HTML and CSS
-- Created **Home, About, and Contact** pages
+- Created *Home,contact, About,internship,subscribe,sucess * pages
 - Basic navigation bar with internal links
 - Added images and text formatting
 - Implemented CSS background images
-
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/725cc1f2-bbcc-45eb-a98a-badc7430f9db" />
-
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a4da6c2e-6bed-4eb3-9d6e-a6a5a53c80d5" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/725cc1f2-bbcc-45eb-a98a-badc7430f9db" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/01ac15e6-70e1-4a69-8356-b3951873584f" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/baac5c75-53c0-449c-82a2-b7c9f1b4a02e" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/357056b1-051d-4cf9-8433-db1d3e75713a" />
