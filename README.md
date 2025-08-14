@@ -26,7 +26,7 @@ Practice real-world development workflows including file structuring, navigation
 - Implemented CSS background images
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/725cc1f2-bbcc-45eb-a98a-badc7430f9db" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/721a48aa-299d-4dc4-8b4a-1e8e8177ba96" />
+
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a4da6c2e-6bed-4eb3-9d6e-a6a5a53c80d5" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/01ac15e6-70e1-4a69-8356-b3951873584f" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/baac5c75-53c0-449c-82a2-b7c9f1b4a02e" />
