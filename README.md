@@ -24,13 +24,13 @@ Practice real-world development workflows including file structuring, navigation
 - Basic navigation bar with internal links
 - Added images and text formatting
 - Implemented CSS background images
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/72911b8f-580e-4cea-89ac-c08842758109" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9cf34766-c5c6-4913-9928-6cc82065eb9d" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f0bcebf0-f97b-4bac-a59e-cc92bec2fb16" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/56cc48ab-5e86-4252-8174-e1a251461b5e" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f7088585-0bb5-4fca-92fc-b5501a7f041d" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d66e3b77-abb7-4cd7-9f1d-4cc768f159f7" />
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/95788156-f55b-4717-a3b6-ba4c613c88e8" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/42137aab-266b-495b-8b31-783b795f00df" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/725cc1f2-bbcc-45eb-a98a-badc7430f9db" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/721a48aa-299d-4dc4-8b4a-1e8e8177ba96" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a4da6c2e-6bed-4eb3-9d6e-a6a5a53c80d5" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/01ac15e6-70e1-4a69-8356-b3951873584f" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/baac5c75-53c0-449c-82a2-b7c9f1b4a02e" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/357056b1-051d-4cf9-8433-db1d3e75713a" />
  **Level 2**
  Created **three separate pages**:
  index.html` (Home)
