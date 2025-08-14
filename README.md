@@ -53,8 +53,13 @@ Practice real-world development workflows including file structuring, navigation
   Saves form data in `applications.txt`
   Stores uploaded resumes in `uploads/` folder
   Runs on **XAMPP localhost** for PHP execution
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4b083c41-6277-4e7b-a54d-3483000da3a5" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/459bb3ba-fc31-416c-8491-0162f819c6e7" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9e0d2679-d7d0-48fd-8394-e01433f0ffb9" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/474707f9-3d49-459f-af68-12fc2be5aec7" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/858b69a6-9d5c-4bd8-be4d-24cf9f98f557" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7aaa99e1-cb9e-4304-8b73-a21c0cbf0391" />
 
-Screenshot (greet).png
 
   
   **Technologies Used**
