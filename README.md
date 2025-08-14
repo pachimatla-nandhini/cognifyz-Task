@@ -44,6 +44,9 @@ Practice real-world development workflows including file structuring, navigation
   Saves form data in `applications.txt`
   Stores uploaded resumes in `uploads/` folder
   Runs on **XAMPP localhost** for PHP execution
+
+Screenshot (greet).png
+
   
   **Technologies Used**
   **HTML5** – Page structure
